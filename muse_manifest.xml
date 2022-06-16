@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="happylands.github.io" resolutions="1x" timestamp="1655423526859">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="happylands.github.io" resolutions="1x" timestamp="1655423611117">
   <folder name="images">
     <file name="u94-6.png" crc="337426707" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:vqp:vph1:verify1"/>
@@ -37,7 +37,7 @@
     <file name="vph1.css" crc="4857808" ref="vph1"/>
     <file name="usc.css" crc="4130019171" ref="usc"/>
     <file name="vqp.css" crc="204860558" ref="vqp"/>
-    <file name="verify1.css" crc="4112124025" ref="verify1"/>
+    <file name="verify1.css" crc="164928635" ref="verify1"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:usc:vph1:vqp:verify1"/>
@@ -51,5 +51,5 @@
   <file name="usc.html" crc="4193018597" seo="true" mt="1655423419179" redirect="true"/>
   <file name="vph1.html" crc="199184929" seo="true" mt="1655423515460" redirect="true"/>
   <file name="vqp.html" crc="115585522" seo="true" mt="1655423492125" redirect="true"/>
-  <file name="verify1.html" crc="4031079682" seo="true" mt="1655422141126" redirect="true"/>
+  <file name="verify1.html" crc="3918436544" seo="true" mt="1655423606485" redirect="true"/>
 </manifest>
