@@ -1,15 +1,17 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="happylands.github.io" resolutions="1x" timestamp="1655348684649">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="happylands.github.io" resolutions="1x" timestamp="1655348792023">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3956014572" ref="index"/>
+    <file name="page1.css" crc="4196518325" ref="page1"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3939489907" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="3936894949" ref="index"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index"/>
-    <file name="require.js" crc="4177726516" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:page1"/>
+    <file name="museutils.js" crc="3939489907" ref="index:page1"/>
+    <file name="whatinput.js" crc="86476730" ref="index:page1"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:page1"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:page1"/>
+    <file name="require.js" crc="4177726516" ref="index:page1"/>
   </folder>
-  <file name="index.html" crc="3890884585" seo="true" mt="1655348680481" redirect="true"/>
+  <file name="index.html" crc="512541371" seo="true" mt="1655348756152" redirect="true"/>
+  <file name="page1.html" crc="61768763" seo="true" mt="1655348787325" redirect="true"/>
 </manifest>
