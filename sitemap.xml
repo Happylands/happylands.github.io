@@ -2,13 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://happylands.github.io/index.html</loc>
-    <lastmod>2022-06-16</lastmod>
+    <lastmod>2022-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://happylands.github.io/page1.html</loc>
-    <lastmod>2022-06-16</lastmod>
+    <loc>http://happylands.github.io/usc.html</loc>
+    <lastmod>2022-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://happylands.github.io/vph1.html</loc>
+    <lastmod>2022-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://happylands.github.io/images/(m=e-yaagqaa)(mh=crd1ltptbtphldm4)original_815566121.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://happylands.github.io/vqp.html</loc>
+    <lastmod>2022-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
