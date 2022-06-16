@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="happylands.github.io" resolutions="1x" timestamp="1655423057484">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="happylands.github.io" resolutions="1x" timestamp="1655423526859">
   <folder name="images">
     <file name="u94-6.png" crc="337426707" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:vqp:vph1:verify1"/>
@@ -33,10 +33,10 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="534880996" ref="index"/>
-    <file name="vph1.css" crc="4139377339" ref="vph1"/>
-    <file name="usc.css" crc="4063093196" ref="usc"/>
-    <file name="vqp.css" crc="4142349129" ref="vqp"/>
+    <file name="index.css" crc="14085218" ref="index"/>
+    <file name="vph1.css" crc="4857808" ref="vph1"/>
+    <file name="usc.css" crc="4130019171" ref="usc"/>
+    <file name="vqp.css" crc="204860558" ref="vqp"/>
     <file name="verify1.css" crc="4112124025" ref="verify1"/>
   </folder>
   <folder name="scripts">
@@ -47,9 +47,9 @@
     <file name="jquery.watch.js" crc="522499760" ref="index:usc:vph1:vqp:verify1"/>
     <file name="require.js" crc="4177726516" ref="index:usc:vph1:vqp:verify1"/>
   </folder>
-  <file name="index.html" crc="4204929637" seo="true" mt="1655421626699" redirect="true"/>
-  <file name="usc.html" crc="3786487434" seo="true" mt="1655417309688" redirect="true"/>
-  <file name="vph1.html" crc="4058856498" seo="true" mt="1655423045868" redirect="true"/>
-  <file name="vqp.html" crc="3847053680" seo="true" mt="1655421934708" redirect="true"/>
+  <file name="index.html" crc="363679633" seo="true" mt="1655423410033" redirect="true"/>
+  <file name="usc.html" crc="4193018597" seo="true" mt="1655423419179" redirect="true"/>
+  <file name="vph1.html" crc="199184929" seo="true" mt="1655423515460" redirect="true"/>
+  <file name="vqp.html" crc="115585522" seo="true" mt="1655423492125" redirect="true"/>
   <file name="verify1.html" crc="4031079682" seo="true" mt="1655422141126" redirect="true"/>
 </manifest>
