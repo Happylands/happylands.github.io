@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="happylands.github.io" resolutions="1x" timestamp="1655348287396">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="happylands.github.io" resolutions="1x" timestamp="1655348372493">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3871261064" ref="index"/>
@@ -11,5 +11,5 @@
     <file name="jquery.watch.js" crc="522499760" ref="index"/>
     <file name="require.js" crc="4177726516" ref="index"/>
   </folder>
-  <file name="index.html" crc="3934659517" seo="true" mt="1655348251572" redirect="true"/>
+  <file name="index.html" crc="112014202" seo="true" mt="1655348368686" redirect="true"/>
 </manifest>
