@@ -33,4 +33,19 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
+  <url>
+    <loc>http://happylands.github.io/verify2.html</loc>
+    <lastmod>2022-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://happylands.github.io/rog2.html</loc>
+    <lastmod>2022-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://happylands.github.io/images/eqweeq.jpg</image:loc>
+    </image:image>
+  </url>
 </urlset>
