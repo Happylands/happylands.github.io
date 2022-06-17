@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="happylands.github.io" resolutions="1x" timestamp="1655462295943">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="happylands.github.io" resolutions="1x" timestamp="1655462483362">
   <folder name="images">
     <file name="u94-6.png" crc="278998505" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:vph1:verify1:happy-lands-verify-p:verify2:rog2"/>
@@ -61,11 +61,11 @@
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4023207362" ref="index"/>
-    <file name="vph1.css" crc="400389502" ref="vph1"/>
+    <file name="vph1.css" crc="4216674726" ref="vph1"/>
     <file name="usc.css" crc="4130019171" ref="usc"/>
     <file name="verify1.css" crc="164928635" ref="verify1"/>
     <file name="happy-lands-verify-p.css" crc="4261970491" ref="happy-lands-verify-p"/>
-    <file name="rog2.css" crc="254068043" ref="rog2"/>
+    <file name="rog2.css" crc="4110159713" ref="rog2"/>
     <file name="verify2.css" crc="4177077986" ref="verify2"/>
   </folder>
   <folder name="scripts">
@@ -78,9 +78,9 @@
   </folder>
   <file name="index.html" crc="3987507726" seo="true" mt="1655461905914" redirect="true"/>
   <file name="usc.html" crc="4193018597" seo="true" mt="1655423419179" redirect="true"/>
-  <file name="vph1.html" crc="244588894" seo="true" mt="1655462269927" redirect="true"/>
+  <file name="vph1.html" crc="4121428599" seo="true" mt="1655462470336" redirect="true"/>
   <file name="verify1.html" crc="3918436544" seo="true" mt="1655423606485" redirect="true"/>
   <file name="happy-lands-verify-p.html" crc="3909812024" seo="true" mt="1655446367289" redirect="true"/>
   <file name="verify2.html" crc="4212642518" seo="true" mt="1655461885599" redirect="true"/>
-  <file name="rog2.html" crc="4265590460" seo="true" mt="1655462240526" redirect="true"/>
+  <file name="rog2.html" crc="210667924" seo="true" mt="1655462477189" redirect="true"/>
 </manifest>
