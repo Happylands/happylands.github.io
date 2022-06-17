@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="happylands.github.io" resolutions="1x" timestamp="1655446412752">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="happylands.github.io" resolutions="1x" timestamp="1655446608817">
   <folder name="images">
     <file name="u94-6.png" crc="337426707" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:vph1:verify1:happy-lands-verify-p:verify2:rog2"/>
@@ -65,7 +65,7 @@
     <file name="usc.css" crc="4130019171" ref="usc"/>
     <file name="verify1.css" crc="164928635" ref="verify1"/>
     <file name="happy-lands-verify-p.css" crc="4261970491" ref="happy-lands-verify-p"/>
-    <file name="rog2.css" crc="296897948" ref="rog2"/>
+    <file name="rog2.css" crc="125236706" ref="rog2"/>
     <file name="verify2.css" crc="152238601" ref="verify2"/>
   </folder>
   <folder name="scripts">
@@ -82,5 +82,5 @@
   <file name="verify1.html" crc="3918436544" seo="true" mt="1655423606485" redirect="true"/>
   <file name="happy-lands-verify-p.html" crc="3909812024" seo="true" mt="1655446367289" redirect="true"/>
   <file name="verify2.html" crc="325709772" seo="true" mt="1655446377454" redirect="true"/>
-  <file name="rog2.html" crc="509864788" seo="true" mt="1655445838079" redirect="true"/>
+  <file name="rog2.html" crc="3994038378" seo="true" mt="1655446593862" redirect="true"/>
 </manifest>
