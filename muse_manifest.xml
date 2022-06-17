@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="happylands.github.io" resolutions="1x" timestamp="1655424025817">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="happylands.github.io" resolutions="1x" timestamp="1655425983525">
   <folder name="images">
     <file name="u94-6.png" crc="337426707" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:vph1:verify1:happy-lands-verify-p"/>
@@ -49,7 +49,7 @@
     <file name="jquery.watch.js" crc="522499760" ref="index:usc:vph1:verify1:happy-lands-verify-p"/>
     <file name="require.js" crc="4177726516" ref="index:usc:vph1:verify1:happy-lands-verify-p"/>
   </folder>
-  <file name="index.html" crc="3955225688" seo="true" mt="1655424002517" redirect="true"/>
+  <file name="index.html" crc="21694783" seo="true" mt="1655425818095" redirect="true"/>
   <file name="usc.html" crc="4193018597" seo="true" mt="1655423419179" redirect="true"/>
   <file name="vph1.html" crc="20710722" seo="true" mt="1655423857558" redirect="true"/>
   <file name="verify1.html" crc="3918436544" seo="true" mt="1655423606485" redirect="true"/>
