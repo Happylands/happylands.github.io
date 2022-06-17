@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="happylands.github.io" resolutions="1x" timestamp="1655463938401">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="happylands.github.io" resolutions="1x" timestamp="1655502434486">
   <folder name="images">
     <file name="u94-6.png" crc="278998505" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:vph1:verify1:happy-lands-verify-p:verify2:rog2"/>
     <file name="u155-4.png" crc="218260211" ref="happy-lands-verify-p"/>
-    <file name="u179-4.png" crc="3845718071" ref="vph1"/>
-    <file name="u208-4.png" crc="201799080" ref="vph1"/>
+    <file name="u179-4.png" crc="3833747246" ref="vph1"/>
+    <file name="u208-4.png" crc="426634446" ref="vph1"/>
     <file name="(m=e-yaagqaa)(mh=crd1ltptbtphldm4)original_815566121.jpg" crc="4224464746" seo="true" ref="vph1">
       <caption webpage="vph1" alt=""/>
     </file>
@@ -12,8 +12,8 @@
     <file name="u116_states-r.png" crc="142471291" ref="index"/>
     <file name="u130_states.png" crc="215350410" ref="index"/>
     <file name="u130_states-r.png" crc="3865805001" ref="index"/>
-    <file name="u217-4.png" crc="4171894644" ref="vph1"/>
-    <file name="u251-4.png" crc="142311311" ref="vph1"/>
+    <file name="u217-4.png" crc="4043376437" ref="vph1"/>
+    <file name="u251-4.png" crc="24649027" ref="vph1"/>
     <file name="u255_states.png" crc="258088468" ref="vph1"/>
     <file name="u255_states-r.png" crc="258088468" ref="vph1"/>
     <file name="u261_states.png" crc="3903422827" ref="vph1"/>
@@ -61,7 +61,7 @@
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4023207362" ref="index"/>
-    <file name="vph1.css" crc="4216674726" ref="vph1"/>
+    <file name="vph1.css" crc="3957373451" ref="vph1"/>
     <file name="usc.css" crc="4130019171" ref="usc"/>
     <file name="verify1.css" crc="164928635" ref="verify1"/>
     <file name="happy-lands-verify-p.css" crc="4261970491" ref="happy-lands-verify-p"/>
@@ -78,7 +78,7 @@
   </folder>
   <file name="index.html" crc="3987507726" seo="true" mt="1655461905914" redirect="true"/>
   <file name="usc.html" crc="4193018597" seo="true" mt="1655423419179" redirect="true"/>
-  <file name="vph1.html" crc="4073015134" seo="true" mt="1655463903644" redirect="true"/>
+  <file name="vph1.html" crc="4196673849" seo="true" mt="1655502421144" redirect="true"/>
   <file name="verify1.html" crc="3918436544" seo="true" mt="1655423606485" redirect="true"/>
   <file name="happy-lands-verify-p.html" crc="3909812024" seo="true" mt="1655446367289" redirect="true"/>
   <file name="verify2.html" crc="4212642518" seo="true" mt="1655461885599" redirect="true"/>
