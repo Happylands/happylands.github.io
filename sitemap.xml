@@ -78,4 +78,19 @@
       <image:loc>http://happylands.github.io/images/21607-1x.jpg</image:loc>
     </image:image>
   </url>
+  <url>
+    <loc>http://happylands.github.io/wt5.html</loc>
+    <lastmod>2022-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://happylands.github.io/images/ez7hlh0weae9qg9.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://happylands.github.io/verify5.html</loc>
+    <lastmod>2022-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
