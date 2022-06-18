@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="happylands.github.io" resolutions="1x" timestamp="1655520523324">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="happylands.github.io" resolutions="1x" timestamp="1655529168660">
   <folder name="images">
     <file name="u94-6.png" crc="278998505" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:vph1:verify1:happy-lands-verify-p:verify2:rog2"/>
+    <file name="blank.gif" crc="4208392903" ref="index:vph1:verify1:happy-lands-verify-p:verify2:rog2:tro3:verify3"/>
     <file name="u155-4.png" crc="218260211" ref="happy-lands-verify-p"/>
     <file name="u179-4.png" crc="3833747246" ref="vph1"/>
     <file name="u208-4.png" crc="4014084034" ref="vph1"/>
@@ -57,6 +57,31 @@
     <file name="u384_states-r.png" crc="4112248359" ref="happy-lands-verify-p"/>
     <file name="u387_states.png" crc="60577978" ref="happy-lands-verify-p"/>
     <file name="u387_states-r.png" crc="60577978" ref="happy-lands-verify-p"/>
+    <file name="u570_states.png" crc="3770747972" ref="happy-lands-verify-p"/>
+    <file name="u570_states-r.png" crc="3770747972" ref="happy-lands-verify-p"/>
+    <file name="u527-4.png" crc="396489150" ref="tro3"/>
+    <file name="u524-4.png" crc="4014084034" ref="tro3"/>
+    <file name="20949-1x.jpg" crc="440938663" seo="true" ref="tro3">
+      <caption webpage="tro3" alt=""/>
+    </file>
+    <file name="u536-4.png" crc="24649027" ref="tro3"/>
+    <file name="u541_states.png" crc="295586249" ref="tro3"/>
+    <file name="u541_states-r.png" crc="295586249" ref="tro3"/>
+    <file name="u526_states.png" crc="293405069" ref="tro3"/>
+    <file name="u526_states-r.png" crc="293405069" ref="tro3"/>
+    <file name="u534_states.png" crc="118750603" ref="tro3"/>
+    <file name="u534_states-r.png" crc="118750603" ref="tro3"/>
+    <file name="u529_states.png" crc="3791629997" ref="tro3"/>
+    <file name="u529_states-r.png" crc="3791629997" ref="tro3"/>
+    <file name="u531_states.png" crc="483412125" ref="tro3"/>
+    <file name="u531_states-r.png" crc="483412125" ref="tro3"/>
+    <file name="u532-4.png" crc="4043376437" ref="tro3"/>
+    <file name="u535-8.png" crc="97688743" ref="tro3"/>
+    <file name="u555-6.png" crc="278998505" ref="verify3"/>
+    <file name="u552_states.png" crc="340246413" ref="verify3"/>
+    <file name="u552_states-r.png" crc="142471291" ref="verify3"/>
+    <file name="u554_states.png" crc="215350410" ref="verify3"/>
+    <file name="u554_states-r.png" crc="3865805001" ref="verify3"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
@@ -64,23 +89,27 @@
     <file name="vph1.css" crc="3871507639" ref="vph1"/>
     <file name="usc.css" crc="4130019171" ref="usc"/>
     <file name="verify1.css" crc="164928635" ref="verify1"/>
-    <file name="happy-lands-verify-p.css" crc="4261970491" ref="happy-lands-verify-p"/>
+    <file name="happy-lands-verify-p.css" crc="4131457838" ref="happy-lands-verify-p"/>
     <file name="rog2.css" crc="147579869" ref="rog2"/>
     <file name="verify2.css" crc="4177077986" ref="verify2"/>
+    <file name="tro3.css" crc="318808402" ref="tro3"/>
+    <file name="verify3.css" crc="4047806937" ref="verify3"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:usc:vph1:verify1:happy-lands-verify-p:verify2:rog2"/>
-    <file name="museutils.js" crc="3939489907" ref="index:usc:vph1:verify1:happy-lands-verify-p:verify2:rog2"/>
-    <file name="whatinput.js" crc="86476730" ref="index:usc:vph1:verify1:happy-lands-verify-p:verify2:rog2"/>
-    <file name="museconfig.js" crc="3936894949" ref="index:usc:vph1:verify1:happy-lands-verify-p:verify2:rog2"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:usc:vph1:verify1:happy-lands-verify-p:verify2:rog2"/>
-    <file name="require.js" crc="4177726516" ref="index:usc:vph1:verify1:happy-lands-verify-p:verify2:rog2"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:usc:vph1:verify1:happy-lands-verify-p:verify2:rog2:tro3:verify3"/>
+    <file name="museutils.js" crc="3939489907" ref="index:usc:vph1:verify1:happy-lands-verify-p:verify2:rog2:tro3:verify3"/>
+    <file name="whatinput.js" crc="86476730" ref="index:usc:vph1:verify1:happy-lands-verify-p:verify2:rog2:tro3:verify3"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:usc:vph1:verify1:happy-lands-verify-p:verify2:rog2:tro3:verify3"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:usc:vph1:verify1:happy-lands-verify-p:verify2:rog2:tro3:verify3"/>
+    <file name="require.js" crc="4177726516" ref="index:usc:vph1:verify1:happy-lands-verify-p:verify2:rog2:tro3:verify3"/>
   </folder>
   <file name="index.html" crc="3987507726" seo="true" mt="1655461905914" redirect="true"/>
   <file name="usc.html" crc="4193018597" seo="true" mt="1655423419179" redirect="true"/>
   <file name="vph1.html" crc="429267375" seo="true" mt="1655507162773" redirect="true"/>
   <file name="verify1.html" crc="3918436544" seo="true" mt="1655423606485" redirect="true"/>
-  <file name="happy-lands-verify-p.html" crc="3909812024" seo="true" mt="1655446367289" redirect="true"/>
+  <file name="happy-lands-verify-p.html" crc="201201379" seo="true" mt="1655528029365" redirect="true"/>
   <file name="verify2.html" crc="4212642518" seo="true" mt="1655461885599" redirect="true"/>
   <file name="rog2.html" crc="4037109696" seo="true" mt="1655520511933" redirect="true"/>
+  <file name="tro3.html" crc="111670048" seo="true" mt="1655529135175" redirect="true"/>
+  <file name="verify3.html" crc="4257954339" seo="true" mt="1655526058965" redirect="true"/>
 </manifest>
