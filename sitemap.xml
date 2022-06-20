@@ -186,4 +186,10 @@
       <image:loc>http://happylands.github.io/images/fnb1gp_xiaepfde.jpg</image:loc>
     </image:image>
   </url>
+  <url>
+    <loc>http://happylands.github.io/verify10.html</loc>
+    <lastmod>2022-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
