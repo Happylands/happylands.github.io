@@ -145,15 +145,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://happylands.github.io/la9.html</loc>
-    <lastmod>2022-06-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://happylands.github.io/images/fnb1gp_xiaepfde.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://happylands.github.io/copyp%E5%89%AF%E6%9C%AC%E5%89%AF%E6%9C%AC.html</loc>
     <lastmod>2022-06-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -175,6 +166,21 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://happylands.github.io/images/ft28laswaair_nx.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://happylands.github.io/verify10%E5%89%AF%E6%9C%AC.html</loc>
+    <lastmod>2022-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://happylands.github.io/copyp%E5%89%AF%E6%9C%AC%E5%89%AF%E6%9C%AC%E5%89%AF%E6%9C%AC.html</loc>
+    <lastmod>2022-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://happylands.github.io/images/18957-1x.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
