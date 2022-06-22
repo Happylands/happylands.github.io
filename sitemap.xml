@@ -184,18 +184,27 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://happylands.github.io/verify10%E5%89%AF%E6%9C%AC%E5%89%AF%E6%9C%AC.html</loc>
-    <lastmod>2022-06-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://happylands.github.io/11b.html</loc>
     <lastmod>2022-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://happylands.github.io/images/endy8ufxmaacdsa.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://happylands.github.io/verify12.html</loc>
+    <lastmod>2022-06-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://happylands.github.io/ro12.html</loc>
+    <lastmod>2022-06-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://happylands.github.io/images/ftlffsbwqaazqf3.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
