@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="happylands.github.io" resolutions="1x" timestamp="1656237019756">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="happylands.github.io" resolutions="1x" timestamp="1656238993798">
   <folder name="images">
     <file name="u94-6.png" crc="278998505" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:vph1:verify1:happy-lands-verify-p:verify2:rog2:tro3:verify3:verify4:oc4:wt5:verify5:verify6:lm6:verify7:co7:verify8:wo8:verify9:verify10:9dr:am10:verify11:11b:verify12:ro12:verify13:verify14:do13:14mf:re16:verify15:verify16:ar15:verify17:cl17:verify18:br18:ro12副本:verify19:19ba:verify20:3s20"/>
@@ -517,8 +517,8 @@
     <file name="u8977-4.png" crc="3803019756" ref="3s20"/>
     <file name="u8991-4.png" crc="4014084034" ref="3s20"/>
     <file name="fv6l1-4uiaafhe4.jpg" crc="4061241388" seo="true" ref="3s20">
-      <caption webpage="ro12副本副本" alt=""/>
       <caption webpage="3s20" alt=""/>
+      <caption webpage="ro12副本副本" alt=""/>
     </file>
     <file name="u8978-4.png" crc="24649027" ref="3s20"/>
     <file name="u8983_states.png" crc="295586249" ref="3s20"/>
@@ -579,7 +579,7 @@
     <file name="verify19.css" crc="4203099357" ref="verify19"/>
     <file name="19ba.css" crc="429348201" ref="19ba"/>
     <file name="verify20.css" crc="300573736" ref="verify20"/>
-    <file name="3s20.css" crc="3932339386" ref="3s20"/>
+    <file name="3s20.css" crc="4199921127" ref="3s20"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:usc:vph1:verify1:happy-lands-verify-p:verify2:rog2:tro3:verify3:verify4:oc4:wt5:verify5:verify6:lm6:verify7:co7:verify8:wo8:verify9:verify10:9dr:am10:verify11:11b:verify12:ro12:verify13:verify14:do13:14mf:re16:verify15:verify16:ar15:verify17:cl17:verify18:br18:ro12副本:verify19:19ba:verify20:3s20"/>
@@ -632,5 +632,5 @@
   <file name="verify19.html" crc="214830739" seo="true" mt="1656236005386" redirect="true"/>
   <file name="19ba.html" crc="4099919192" seo="true" mt="1656237014494" redirect="true"/>
   <file name="verify20.html" crc="4036766610" seo="true" mt="1656236671142" redirect="true"/>
-  <file name="3s20.html" crc="306103337" seo="true" mt="1656236646454" redirect="true"/>
+  <file name="3s20.html" crc="4117994087" seo="true" mt="1656238988995" redirect="true"/>
 </manifest>
