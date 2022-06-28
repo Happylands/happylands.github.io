@@ -29,7 +29,7 @@
   </url>
   <url>
     <loc>http://happylands.github.io/happy-lands-verify-p.html</loc>
-    <lastmod>2022-06-27</lastmod>
+    <lastmod>2022-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -286,15 +286,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://happylands.github.io/ro12%E5%89%AF%E6%9C%AC.html</loc>
-    <lastmod>2022-06-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://happylands.github.io/images/ftlffsbwqaazqf3.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://happylands.github.io/verify19.html</loc>
     <lastmod>2022-06-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -325,12 +316,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://happylands.github.io/verify20%E5%89%AF%E6%9C%AC.html</loc>
-    <lastmod>2022-06-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://happylands.github.io/verify21.html</loc>
     <lastmod>2022-06-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -358,6 +343,45 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://happylands.github.io/images/fk3po6owuaqyswi.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://happylands.github.io/al23.html</loc>
+    <lastmod>2022-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://happylands.github.io/images/146-set-3x.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://happylands.github.io/verify23.html</loc>
+    <lastmod>2022-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://happylands.github.io/verify24.html</loc>
+    <lastmod>2022-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://happylands.github.io/sl24.html</loc>
+    <lastmod>2022-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://happylands.github.io/images/fjzwrrhx0ae7d6z.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://happylands.github.io/sl24%E5%89%AF%E6%9C%AC-2.html</loc>
+    <lastmod>2022-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://happylands.github.io/images/ftlffsbwqaazqf3.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
