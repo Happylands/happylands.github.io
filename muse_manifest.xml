@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="happylands.github.io" resolutions="1x" timestamp="1656396085864">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="happylands.github.io" resolutions="1x" timestamp="1656493702710">
   <folder name="images">
     <file name="u94-6.png" crc="278998505" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:vph1:verify1:happy-lands-verify-p:verify2:rog2:tro3:verify3:verify4:oc4:wt5:verify5:verify6:lm6:verify7:co7:verify8:wo8:verify9:verify10:9dr:am10:verify11:11b:verify12:ro12:verify13:verify14:do13:14mf:re16:verify15:verify16:ar15:verify17:cl17:verify18:br18:verify19:19ba:verify20:3s20:verify21:21hk:verify22:ne22:al23:verify23:verify24:sl24:sl24副本-2"/>
@@ -638,7 +638,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4023207362" ref="index"/>
+    <file name="index.css" crc="4045303059" ref="index"/>
     <file name="vph1.css" crc="3871507639" ref="vph1"/>
     <file name="usc.css" crc="4130019171" ref="usc"/>
     <file name="verify1.css" crc="164928635" ref="verify1"/>
@@ -699,7 +699,7 @@
     <file name="jquery.watch.js" crc="522499760" ref="index:usc:vph1:verify1:happy-lands-verify-p:verify2:rog2:tro3:verify3:verify4:oc4:wt5:verify5:verify6:lm6:verify7:co7:verify8:wo8:verify9:verify10:9dr:am10:verify11:11b:verify12:ro12:verify13:verify14:do13:14mf:re16:verify15:verify16:ar15:verify17:cl17:verify18:br18:verify19:19ba:verify20:3s20:verify21:21hk:verify22:ne22:al23:verify23:verify24:sl24:sl24副本-2"/>
     <file name="require.js" crc="4177726516" ref="index:usc:vph1:verify1:happy-lands-verify-p:verify2:rog2:tro3:verify3:verify4:oc4:wt5:verify5:verify6:lm6:verify7:co7:verify8:wo8:verify9:verify10:9dr:am10:verify11:11b:verify12:ro12:verify13:verify14:do13:14mf:re16:verify15:verify16:ar15:verify17:cl17:verify18:br18:verify19:19ba:verify20:3s20:verify21:21hk:verify22:ne22:al23:verify23:verify24:sl24:sl24副本-2"/>
   </folder>
-  <file name="index.html" crc="3987507726" seo="true" mt="1655461905914" redirect="true"/>
+  <file name="index.html" crc="90061805" seo="true" mt="1656493698483" redirect="true"/>
   <file name="usc.html" crc="4193018597" seo="true" mt="1655423419179" redirect="true"/>
   <file name="vph1.html" crc="429267375" seo="true" mt="1655507162773" redirect="true"/>
   <file name="verify1.html" crc="3918436544" seo="true" mt="1655423606485" redirect="true"/>
