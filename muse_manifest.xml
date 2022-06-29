@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="happylands.github.io" resolutions="1x" timestamp="1656495693466">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="happylands.github.io" resolutions="1x" timestamp="1656500043572">
   <folder name="images">
     <file name="u94-6.png" crc="278998505" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:vph1:verify1:happy-lands-verify-p:verify2:rog2:tro3:verify3:verify4:oc4:wt5:verify5:verify6:lm6:verify7:co7:verify8:wo8:verify9:verify10:9dr:am10:verify11:11b:verify12:ro12:verify13:verify14:do13:14mf:re16:verify15:verify16:ar15:verify17:cl17:verify18:br18:verify19:19ba:verify20:3s20:verify21:21hk:verify22:ne22:al23:verify23:verify24:sl24:sl24副本-2"/>
+    <file name="blank.gif" crc="4208392903" ref="index:vph1:verify1:happy-lands-verify-p:verify2:rog2:tro3:verify3:verify4:oc4:wt5:verify5:verify6:lm6:verify7:co7:verify8:wo8:verify9:verify10:9dr:am10:verify11:11b:verify12:ro12:verify13:verify14:do13:14mf:re16:verify15:verify16:ar15:verify17:cl17:verify18:br18:verify19:19ba:verify20:3s20:verify21:21hk:verify22:ne22:al23:verify23:verify24:sl24:st25:verify25:verify26:th26:sl24副本-2副本副本"/>
     <file name="u155-4.png" crc="218260211" ref="happy-lands-verify-p"/>
     <file name="u179-4.png" crc="3833747246" ref="vph1"/>
     <file name="u208-4.png" crc="4014084034" ref="vph1"/>
@@ -316,11 +316,12 @@
     <file name="u7962_states-r.png" crc="74666256" ref="happy-lands-verify-p"/>
     <file name="u8005-4.png" crc="3799610094" ref="ro12"/>
     <file name="u7996-4.png" crc="4014084034" ref="ro12"/>
-    <file name="ftlffsbwqaazqf3.jpg" crc="86354181" seo="true" ref="ro12:sl24副本-2">
-      <caption webpage="copyp副本副本副本" alt=""/>
-      <caption webpage="ro12副本" alt=""/>
-      <caption webpage="sl24副本-2" alt=""/>
+    <file name="ftlffsbwqaazqf3.jpg" crc="86354181" seo="true" ref="ro12:sl24副本-2副本副本">
       <caption webpage="ro12" alt=""/>
+      <caption webpage="copyp副本副本副本" alt=""/>
+      <caption webpage="sl24副本-2" alt=""/>
+      <caption webpage="sl24副本-2副本副本" alt=""/>
+      <caption webpage="ro12副本" alt=""/>
     </file>
     <file name="u8011-4.png" crc="24649027" ref="ro12"/>
     <file name="u8010_states.png" crc="295586249" ref="ro12"/>
@@ -620,21 +621,71 @@
     <file name="u9330_states-r.png" crc="483412125" ref="sl24"/>
     <file name="u9328-4.png" crc="4043376437" ref="sl24"/>
     <file name="u9319-8.png" crc="97688743" ref="sl24"/>
-    <file name="u9454-4.png" crc="3799610094" ref="sl24副本-2"/>
-    <file name="u9450-4.png" crc="4014084034" ref="sl24副本-2"/>
-    <file name="u9437-4.png" crc="24649027" ref="sl24副本-2"/>
-    <file name="u9442_states.png" crc="295586249" ref="sl24副本-2"/>
-    <file name="u9442_states-r.png" crc="295586249" ref="sl24副本-2"/>
-    <file name="u9445_states.png" crc="293405069" ref="sl24副本-2"/>
-    <file name="u9445_states-r.png" crc="293405069" ref="sl24副本-2"/>
-    <file name="u9447_states.png" crc="118750603" ref="sl24副本-2"/>
-    <file name="u9447_states-r.png" crc="118750603" ref="sl24副本-2"/>
-    <file name="u9452_states.png" crc="3791629997" ref="sl24副本-2"/>
-    <file name="u9452_states-r.png" crc="3791629997" ref="sl24副本-2"/>
-    <file name="u9439_states.png" crc="483412125" ref="sl24副本-2"/>
-    <file name="u9439_states-r.png" crc="483412125" ref="sl24副本-2"/>
-    <file name="u9440-4.png" crc="4043376437" ref="sl24副本-2"/>
-    <file name="u9436-8.png" crc="97688743" ref="sl24副本-2"/>
+    <file name="u9454-4.png" crc="4032432081" ref="st25"/>
+    <file name="u9450-4.png" crc="4014084034" ref="st25"/>
+    <file name="u9437-4.png" crc="24649027" ref="st25"/>
+    <file name="u9442_states.png" crc="295586249" ref="st25"/>
+    <file name="u9442_states-r.png" crc="295586249" ref="st25"/>
+    <file name="u9445_states.png" crc="293405069" ref="st25"/>
+    <file name="u9445_states-r.png" crc="293405069" ref="st25"/>
+    <file name="u9447_states.png" crc="118750603" ref="st25"/>
+    <file name="u9447_states-r.png" crc="118750603" ref="st25"/>
+    <file name="u9452_states.png" crc="3791629997" ref="st25"/>
+    <file name="u9452_states-r.png" crc="3791629997" ref="st25"/>
+    <file name="u9439_states.png" crc="483412125" ref="st25"/>
+    <file name="u9439_states-r.png" crc="483412125" ref="st25"/>
+    <file name="u9440-4.png" crc="4043376437" ref="st25"/>
+    <file name="u9436-8.png" crc="97688743" ref="st25"/>
+    <file name="u9635_states.png" crc="4083309730" ref="happy-lands-verify-p"/>
+    <file name="u9635_states-r.png" crc="4083309730" ref="happy-lands-verify-p"/>
+    <file name="u9638_states.png" crc="3880329413" ref="happy-lands-verify-p"/>
+    <file name="u9638_states-r.png" crc="3880329413" ref="happy-lands-verify-p"/>
+    <file name="slm_skylar_vox.jpg" crc="349599515" seo="true" ref="st25">
+      <caption webpage="st25" alt=""/>
+    </file>
+    <file name="u9484-6.png" crc="278998505" ref="verify25"/>
+    <file name="u9483_states.png" crc="340246413" ref="verify25"/>
+    <file name="u9483_states-r.png" crc="142471291" ref="verify25"/>
+    <file name="u9480_states.png" crc="215350410" ref="verify25"/>
+    <file name="u9480_states-r.png" crc="3865805001" ref="verify25"/>
+    <file name="u9505-6.png" crc="278998505" ref="verify26"/>
+    <file name="u9504_states.png" crc="340246413" ref="verify26"/>
+    <file name="u9504_states-r.png" crc="142471291" ref="verify26"/>
+    <file name="u9507_states.png" crc="215350410" ref="verify26"/>
+    <file name="u9507_states-r.png" crc="3865805001" ref="verify26"/>
+    <file name="u9536-4.png" crc="321193392" ref="th26"/>
+    <file name="u9528-4.png" crc="4014084034" ref="th26"/>
+    <file name="bio_big.jpg" crc="268264503" seo="true" ref="th26">
+      <caption webpage="th26" alt=""/>
+    </file>
+    <file name="u9530-4.png" crc="24649027" ref="th26"/>
+    <file name="u9542_states.png" crc="295586249" ref="th26"/>
+    <file name="u9542_states-r.png" crc="295586249" ref="th26"/>
+    <file name="u9540_states.png" crc="293405069" ref="th26"/>
+    <file name="u9540_states-r.png" crc="293405069" ref="th26"/>
+    <file name="u9534_states.png" crc="118750603" ref="th26"/>
+    <file name="u9534_states-r.png" crc="118750603" ref="th26"/>
+    <file name="u9532_states.png" crc="3791629997" ref="th26"/>
+    <file name="u9532_states-r.png" crc="3791629997" ref="th26"/>
+    <file name="u9538_states.png" crc="483412125" ref="th26"/>
+    <file name="u9538_states-r.png" crc="483412125" ref="th26"/>
+    <file name="u9529-4.png" crc="4043376437" ref="th26"/>
+    <file name="u9543-8.png" crc="97688743" ref="th26"/>
+    <file name="u9621-4.png" crc="3799610094" ref="sl24副本-2副本副本"/>
+    <file name="u9622-4.png" crc="4014084034" ref="sl24副本-2副本副本"/>
+    <file name="u9615-4.png" crc="24649027" ref="sl24副本-2副本副本"/>
+    <file name="u9614_states.png" crc="295586249" ref="sl24副本-2副本副本"/>
+    <file name="u9614_states-r.png" crc="295586249" ref="sl24副本-2副本副本"/>
+    <file name="u9631_states.png" crc="293405069" ref="sl24副本-2副本副本"/>
+    <file name="u9631_states-r.png" crc="293405069" ref="sl24副本-2副本副本"/>
+    <file name="u9628_states.png" crc="118750603" ref="sl24副本-2副本副本"/>
+    <file name="u9628_states-r.png" crc="118750603" ref="sl24副本-2副本副本"/>
+    <file name="u9618_states.png" crc="3791629997" ref="sl24副本-2副本副本"/>
+    <file name="u9618_states-r.png" crc="3791629997" ref="sl24副本-2副本副本"/>
+    <file name="u9624_states.png" crc="483412125" ref="sl24副本-2副本副本"/>
+    <file name="u9624_states-r.png" crc="483412125" ref="sl24副本-2副本副本"/>
+    <file name="u9625-4.png" crc="4043376437" ref="sl24副本-2副本副本"/>
+    <file name="u9616-8.png" crc="97688743" ref="sl24副本-2副本副本"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
@@ -642,7 +693,7 @@
     <file name="vph1.css" crc="3871507639" ref="vph1"/>
     <file name="usc.css" crc="4130019171" ref="usc"/>
     <file name="verify1.css" crc="164928635" ref="verify1"/>
-    <file name="happy-lands-verify-p.css" crc="400228360" ref="happy-lands-verify-p"/>
+    <file name="happy-lands-verify-p.css" crc="300609538" ref="happy-lands-verify-p"/>
     <file name="rog2.css" crc="147579869" ref="rog2"/>
     <file name="verify2.css" crc="4177077986" ref="verify2"/>
     <file name="tro3.css" crc="367972248" ref="tro3"/>
@@ -686,24 +737,28 @@
     <file name="ne22.css" crc="486487224" ref="ne22"/>
     <file name="verify22.css" crc="422299198" ref="verify22"/>
     <file name="verify24.css" crc="394413358" ref="verify24"/>
-    <file name="sl24__-2.css" crc="4172984243" ref="sl24副本-2"/>
     <file name="al23.css" crc="142979692" ref="al23"/>
     <file name="sl24.css" crc="127066504" ref="sl24"/>
     <file name="verify23.css" crc="78653346" ref="verify23"/>
+    <file name="st25.css" crc="3945899267" ref="st25"/>
+    <file name="verify25.css" crc="3766730970" ref="verify25"/>
+    <file name="verify26.css" crc="239005390" ref="verify26"/>
+    <file name="th26.css" crc="3958802261" ref="th26"/>
+    <file name="sl24__-2____.css" crc="92372346" ref="sl24副本-2副本副本"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:usc:vph1:verify1:happy-lands-verify-p:verify2:rog2:tro3:verify3:verify4:oc4:wt5:verify5:verify6:lm6:verify7:co7:verify8:wo8:verify9:verify10:9dr:am10:verify11:11b:verify12:ro12:verify13:verify14:do13:14mf:re16:verify15:verify16:ar15:verify17:cl17:verify18:br18:verify19:19ba:verify20:3s20:verify21:21hk:verify22:ne22:al23:verify23:verify24:sl24:sl24副本-2"/>
-    <file name="museutils.js" crc="3939489907" ref="index:usc:vph1:verify1:happy-lands-verify-p:verify2:rog2:tro3:verify3:verify4:oc4:wt5:verify5:verify6:lm6:verify7:co7:verify8:wo8:verify9:verify10:9dr:am10:verify11:11b:verify12:ro12:verify13:verify14:do13:14mf:re16:verify15:verify16:ar15:verify17:cl17:verify18:br18:verify19:19ba:verify20:3s20:verify21:21hk:verify22:ne22:al23:verify23:verify24:sl24:sl24副本-2"/>
-    <file name="whatinput.js" crc="86476730" ref="index:usc:vph1:verify1:happy-lands-verify-p:verify2:rog2:tro3:verify3:verify4:oc4:wt5:verify5:verify6:lm6:verify7:co7:verify8:wo8:verify9:verify10:9dr:am10:verify11:11b:verify12:ro12:verify13:verify14:do13:14mf:re16:verify15:verify16:ar15:verify17:cl17:verify18:br18:verify19:19ba:verify20:3s20:verify21:21hk:verify22:ne22:al23:verify23:verify24:sl24:sl24副本-2"/>
-    <file name="museconfig.js" crc="3936894949" ref="index:usc:vph1:verify1:happy-lands-verify-p:verify2:rog2:tro3:verify3:verify4:oc4:wt5:verify5:verify6:lm6:verify7:co7:verify8:wo8:verify9:verify10:9dr:am10:verify11:11b:verify12:ro12:verify13:verify14:do13:14mf:re16:verify15:verify16:ar15:verify17:cl17:verify18:br18:verify19:19ba:verify20:3s20:verify21:21hk:verify22:ne22:al23:verify23:verify24:sl24:sl24副本-2"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:usc:vph1:verify1:happy-lands-verify-p:verify2:rog2:tro3:verify3:verify4:oc4:wt5:verify5:verify6:lm6:verify7:co7:verify8:wo8:verify9:verify10:9dr:am10:verify11:11b:verify12:ro12:verify13:verify14:do13:14mf:re16:verify15:verify16:ar15:verify17:cl17:verify18:br18:verify19:19ba:verify20:3s20:verify21:21hk:verify22:ne22:al23:verify23:verify24:sl24:sl24副本-2"/>
-    <file name="require.js" crc="4177726516" ref="index:usc:vph1:verify1:happy-lands-verify-p:verify2:rog2:tro3:verify3:verify4:oc4:wt5:verify5:verify6:lm6:verify7:co7:verify8:wo8:verify9:verify10:9dr:am10:verify11:11b:verify12:ro12:verify13:verify14:do13:14mf:re16:verify15:verify16:ar15:verify17:cl17:verify18:br18:verify19:19ba:verify20:3s20:verify21:21hk:verify22:ne22:al23:verify23:verify24:sl24:sl24副本-2"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:usc:vph1:verify1:happy-lands-verify-p:verify2:rog2:tro3:verify3:verify4:oc4:wt5:verify5:verify6:lm6:verify7:co7:verify8:wo8:verify9:verify10:9dr:am10:verify11:11b:verify12:ro12:verify13:verify14:do13:14mf:re16:verify15:verify16:ar15:verify17:cl17:verify18:br18:verify19:19ba:verify20:3s20:verify21:21hk:verify22:ne22:al23:verify23:verify24:sl24:st25:verify25:verify26:th26:sl24副本-2副本副本"/>
+    <file name="museutils.js" crc="3939489907" ref="index:usc:vph1:verify1:happy-lands-verify-p:verify2:rog2:tro3:verify3:verify4:oc4:wt5:verify5:verify6:lm6:verify7:co7:verify8:wo8:verify9:verify10:9dr:am10:verify11:11b:verify12:ro12:verify13:verify14:do13:14mf:re16:verify15:verify16:ar15:verify17:cl17:verify18:br18:verify19:19ba:verify20:3s20:verify21:21hk:verify22:ne22:al23:verify23:verify24:sl24:st25:verify25:verify26:th26:sl24副本-2副本副本"/>
+    <file name="whatinput.js" crc="86476730" ref="index:usc:vph1:verify1:happy-lands-verify-p:verify2:rog2:tro3:verify3:verify4:oc4:wt5:verify5:verify6:lm6:verify7:co7:verify8:wo8:verify9:verify10:9dr:am10:verify11:11b:verify12:ro12:verify13:verify14:do13:14mf:re16:verify15:verify16:ar15:verify17:cl17:verify18:br18:verify19:19ba:verify20:3s20:verify21:21hk:verify22:ne22:al23:verify23:verify24:sl24:st25:verify25:verify26:th26:sl24副本-2副本副本"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:usc:vph1:verify1:happy-lands-verify-p:verify2:rog2:tro3:verify3:verify4:oc4:wt5:verify5:verify6:lm6:verify7:co7:verify8:wo8:verify9:verify10:9dr:am10:verify11:11b:verify12:ro12:verify13:verify14:do13:14mf:re16:verify15:verify16:ar15:verify17:cl17:verify18:br18:verify19:19ba:verify20:3s20:verify21:21hk:verify22:ne22:al23:verify23:verify24:sl24:st25:verify25:verify26:th26:sl24副本-2副本副本"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:usc:vph1:verify1:happy-lands-verify-p:verify2:rog2:tro3:verify3:verify4:oc4:wt5:verify5:verify6:lm6:verify7:co7:verify8:wo8:verify9:verify10:9dr:am10:verify11:11b:verify12:ro12:verify13:verify14:do13:14mf:re16:verify15:verify16:ar15:verify17:cl17:verify18:br18:verify19:19ba:verify20:3s20:verify21:21hk:verify22:ne22:al23:verify23:verify24:sl24:st25:verify25:verify26:th26:sl24副本-2副本副本"/>
+    <file name="require.js" crc="4177726516" ref="index:usc:vph1:verify1:happy-lands-verify-p:verify2:rog2:tro3:verify3:verify4:oc4:wt5:verify5:verify6:lm6:verify7:co7:verify8:wo8:verify9:verify10:9dr:am10:verify11:11b:verify12:ro12:verify13:verify14:do13:14mf:re16:verify15:verify16:ar15:verify17:cl17:verify18:br18:verify19:19ba:verify20:3s20:verify21:21hk:verify22:ne22:al23:verify23:verify24:sl24:st25:verify25:verify26:th26:sl24副本-2副本副本"/>
   </folder>
   <file name="index.html" crc="329806426" seo="true" mt="1656495664805" redirect="true"/>
   <file name="usc.html" crc="102499071" seo="true" mt="1656495664805" redirect="true"/>
   <file name="vph1.html" crc="251166669" seo="true" mt="1656495664805" redirect="true"/>
   <file name="verify1.html" crc="72673290" seo="true" mt="1656495664805" redirect="true"/>
-  <file name="happy-lands-verify-p.html" crc="201000225" seo="true" mt="1656495664805" redirect="true"/>
+  <file name="happy-lands-verify-p.html" crc="3811714684" seo="true" mt="1656499868092" redirect="true"/>
   <file name="verify2.html" crc="231524958" seo="true" mt="1656495664805" redirect="true"/>
   <file name="rog2.html" crc="4130480070" seo="true" mt="1656495664805" redirect="true"/>
   <file name="tro3.html" crc="4278534419" seo="true" mt="1656495664805" redirect="true"/>
@@ -750,5 +805,9 @@
   <file name="verify23.html" crc="3896740165" seo="true" mt="1656495664805" redirect="true"/>
   <file name="verify24.html" crc="4140692495" seo="true" mt="1656495664805" redirect="true"/>
   <file name="sl24.html" crc="463431445" seo="true" mt="1656495664805" redirect="true"/>
-  <file name="sl24副本-2.html" crc="3917792840" seo="true" mt="1656495664805" redirect="true"/>
+  <file name="st25.html" crc="57322350" seo="true" mt="1656499734715" redirect="true"/>
+  <file name="verify25.html" crc="270215123" seo="true" mt="1656499752224" redirect="true"/>
+  <file name="verify26.html" crc="158003760" seo="true" mt="1656500039433" redirect="true"/>
+  <file name="th26.html" crc="366522667" seo="true" mt="1656500002524" redirect="true"/>
+  <file name="sl24副本-2副本副本.html" crc="4134451421" seo="true" mt="1656499695778" redirect="true"/>
 </manifest>
