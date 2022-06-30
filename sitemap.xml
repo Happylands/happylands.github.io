@@ -29,7 +29,7 @@
   </url>
   <url>
     <loc>http://happylands.github.io/happy-lands-verify-p.html</loc>
-    <lastmod>2022-06-30</lastmod>
+    <lastmod>2022-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -406,15 +406,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://happylands.github.io/sl24%E5%89%AF%E6%9C%AC-2%E5%89%AF%E6%9C%AC%E5%89%AF%E6%9C%AC.html</loc>
-    <lastmod>2022-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://happylands.github.io/images/ftlffsbwqaazqf3.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://happylands.github.io/verify27.html</loc>
     <lastmod>2022-06-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -443,5 +434,44 @@
     <image:image>
       <image:loc>http://happylands.github.io/images/ay2h8_sa8prx_ef7a1100.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://happylands.github.io/bo30.html</loc>
+    <lastmod>2022-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://happylands.github.io/images/frvxpxdx0aagnnt.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://happylands.github.io/verify29.html</loc>
+    <lastmod>2022-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://happylands.github.io/ff29.html</loc>
+    <lastmod>2022-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://happylands.github.io/images/fq9v2yzauaammzl.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://happylands.github.io/sl24%E5%89%AF%E6%9C%AC-2%E5%89%AF%E6%9C%AC%E5%89%AF%E6%9C%AC%E5%89%AF%E6%9C%AC.html</loc>
+    <lastmod>2022-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://happylands.github.io/images/ftlffsbwqaazqf3.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://happylands.github.io/verify30.html</loc>
+    <lastmod>2022-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
