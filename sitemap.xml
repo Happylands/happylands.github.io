@@ -29,7 +29,7 @@
   </url>
   <url>
     <loc>http://happylands.github.io/happy-lands-verify-p.html</loc>
-    <lastmod>2022-07-01</lastmod>
+    <lastmod>2022-07-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -460,18 +460,48 @@
     </image:image>
   </url>
   <url>
-    <loc>http://happylands.github.io/sl24%E5%89%AF%E6%9C%AC-2%E5%89%AF%E6%9C%AC%E5%89%AF%E6%9C%AC%E5%89%AF%E6%9C%AC.html</loc>
+    <loc>http://happylands.github.io/verify30.html</loc>
     <lastmod>2022-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://happylands.github.io/mg31.html</loc>
+    <lastmod>2022-07-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://happylands.github.io/images/fuwvkwjwyaenixe.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://happylands.github.io/verify31.html</loc>
+    <lastmod>2022-07-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://happylands.github.io/verify32.html</loc>
+    <lastmod>2022-07-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://happylands.github.io/32sp.html</loc>
+    <lastmod>2022-07-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://happylands.github.io/images/fwwmz9yxgai7nlr.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://happylands.github.io/sl24%E5%89%AF%E6%9C%AC-2%E5%89%AF%E6%9C%AC%E5%89%AF%E6%9C%AC%E5%89%AF%E6%9C%AC%E5%89%AF%E6%9C%AC-2.html</loc>
+    <lastmod>2022-07-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://happylands.github.io/images/ftlffsbwqaazqf3.jpg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://happylands.github.io/verify30.html</loc>
-    <lastmod>2022-07-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>
