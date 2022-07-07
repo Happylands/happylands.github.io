@@ -29,7 +29,7 @@
   </url>
   <url>
     <loc>http://happylands.github.io/happy-lands-verify-p.html</loc>
-    <lastmod>2022-07-07</lastmod>
+    <lastmod>2022-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -637,8 +637,38 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://happylands.github.io/574538%E5%89%AF%E6%9C%AC%E5%89%AF%E6%9C%AC.html</loc>
+    <loc>http://happylands.github.io/bd42.html</loc>
     <lastmod>2022-07-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://happylands.github.io/images/fw7lycnwiamt19s.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://happylands.github.io/ma43.html</loc>
+    <lastmod>2022-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://happylands.github.io/images/(m=qwys6nxbeaftggaaaa)(mh=jbtc2mlccmic-ort)0.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://happylands.github.io/verify43.html</loc>
+    <lastmod>2022-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://happylands.github.io/verify44.html</loc>
+    <lastmod>2022-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://happylands.github.io/574538%E5%89%AF%E6%9C%AC%E5%89%AF%E6%9C%AC%E5%89%AF%E6%9C%AC.html</loc>
+    <lastmod>2022-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -646,12 +676,12 @@
     </image:image>
   </url>
   <url>
-    <loc>http://happylands.github.io/bd42.html</loc>
-    <lastmod>2022-07-07</lastmod>
+    <loc>http://happylands.github.io/so44.html</loc>
+    <lastmod>2022-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://happylands.github.io/images/fw7lycnwiamt19s.jpg</image:loc>
+      <image:loc>http://happylands.github.io/images/(m=eaftggaaaa)(mh=vio6gcgjs9wrks9z)6.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
