@@ -29,7 +29,7 @@
   </url>
   <url>
     <loc>http://happylands.github.io/happy-lands-verify-p.html</loc>
-    <lastmod>2022-07-09</lastmod>
+    <lastmod>2022-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -697,8 +697,38 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://happylands.github.io/574538%E5%89%AF%E6%9C%AC%E5%89%AF%E6%9C%AC%E5%89%AF%E6%9C%AC%E5%89%AF%E6%9C%AC.html</loc>
+    <loc>http://happylands.github.io/sx46.html</loc>
     <lastmod>2022-07-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://happylands.github.io/images/r1_01.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://happylands.github.io/si47.html</loc>
+    <lastmod>2022-07-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://happylands.github.io/images/(m=eaftggaaaa)(mh=63fgt4wizrvo1ihp)4.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://happylands.github.io/verify47.html</loc>
+    <lastmod>2022-07-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://happylands.github.io/verify48.html</loc>
+    <lastmod>2022-07-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://happylands.github.io/9742.html</loc>
+    <lastmod>2022-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -706,12 +736,12 @@
     </image:image>
   </url>
   <url>
-    <loc>http://happylands.github.io/sx46.html</loc>
-    <lastmod>2022-07-09</lastmod>
+    <loc>http://happylands.github.io/nf48.html</loc>
+    <lastmod>2022-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://happylands.github.io/images/r1_01.jpg</image:loc>
+      <image:loc>http://happylands.github.io/images/fjsmpvswuai7ymy.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
