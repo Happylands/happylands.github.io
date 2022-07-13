@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="happylands.github.io" resolutions="1x" timestamp="1657724405904">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="happylands.github.io" resolutions="1x" timestamp="1657725302306">
   <folder name="images">
     <file name="u94-6.png" crc="278998505" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:vph1:verify1:happy-lands-verify-p:verify2:rog2:tro3:verify3:verify4:oc4:wt5:verify5:verify6:lm6:verify7:co7:verify8:wo8:verify9:verify10:9dr:am10:verify11:11b:verify12:ro12:verify13:verify14:do13:14mf:re16:verify15:verify16:ar15:verify17:cl17:verify18:br18:verify19:19ba:verify20:3s20:verify21:21hk:verify22:ne22:al23:verify23:verify24:sl24:st25:verify25:verify26:th26:verify27:ls27:verify28:al28:bo30:verify29:ff29:verify30:mg31:verify31:verify32:32sp:zo33:verify33:verify34:cu34:ty35:verify36:verify35:se36:wo37:verify38:verify37:po38:verify39:verify40:st40:rs39:ri41:verify42:verify41:bd42:ma43:verify43:verify44:so44:bu45:verify45:verify46:sx46:si47:verify47:verify48:9742:nf48:verify49:verify50:ma49:yo50:verify51:verify52:sm52:cl51:bc54:verify53:verify54:ti53"/>
@@ -316,24 +316,24 @@
     <file name="u7962_states-r.png" crc="74666256" ref="happy-lands-verify-p"/>
     <file name="u8005-4.png" crc="3799610094" ref="ro12"/>
     <file name="u7996-4.png" crc="4014084034" ref="ro12"/>
-    <file name="ftlffsbwqaazqf3.jpg" crc="86354181" seo="true" ref="ro12:9742:bc54:ti53">
+    <file name="ftlffsbwqaazqf3.jpg" crc="86354181" seo="true" ref="ro12:9742">
       <caption webpage="574538" alt=""/>
       <caption webpage="9742" alt=""/>
+      <caption webpage="574538副本" alt=""/>
       <caption webpage="sl24副本-2副本副本副本副本-2" alt=""/>
       <caption webpage="ro12副本" alt=""/>
-      <caption webpage="ti53" alt=""/>
-      <caption webpage="574538副本副本副本副本" alt=""/>
       <caption webpage="574538副本副本副本" alt=""/>
       <caption webpage="sl24副本-2" alt=""/>
-      <caption webpage="sl24副本-2副本副本副本" alt=""/>
-      <caption webpage="574538副本" alt=""/>
-      <caption webpage="copyp副本副本副本" alt=""/>
-      <caption webpage="bc54" alt=""/>
       <caption webpage="574538副本副本" alt=""/>
-      <caption webpage="sl24副本-2副本副本" alt=""/>
-      <caption webpage="ro12" alt=""/>
       <caption webpage="sl24副本-2副本副本副本副本-2副本副本" alt=""/>
       <caption webpage="9742副本" alt=""/>
+      <caption webpage="sl24副本-2副本副本" alt=""/>
+      <caption webpage="ti53" alt=""/>
+      <caption webpage="ro12" alt=""/>
+      <caption webpage="sl24副本-2副本副本副本" alt=""/>
+      <caption webpage="574538副本副本副本副本" alt=""/>
+      <caption webpage="copyp副本副本副本" alt=""/>
+      <caption webpage="bc54" alt=""/>
     </file>
     <file name="u8011-4.png" crc="24649027" ref="ro12"/>
     <file name="u8010_states.png" crc="295586249" ref="ro12"/>
@@ -1348,7 +1348,7 @@
     <file name="u12120_states-r.png" crc="483412125" ref="cl51"/>
     <file name="u12125-4.png" crc="4043376437" ref="cl51"/>
     <file name="u12131-8.png" crc="97688743" ref="cl51"/>
-    <file name="u16957-4.png" crc="3799610094" ref="bc54"/>
+    <file name="u16957-4.png" crc="416896414" ref="bc54"/>
     <file name="u16974-4.png" crc="4014084034" ref="bc54"/>
     <file name="u16956-4.png" crc="24649027" ref="bc54"/>
     <file name="u16973_states.png" crc="295586249" ref="bc54"/>
@@ -1373,7 +1373,7 @@
     <file name="u17017_states-r.png" crc="142471291" ref="verify54"/>
     <file name="u17020_states.png" crc="215350410" ref="verify54"/>
     <file name="u17020_states-r.png" crc="3865805001" ref="verify54"/>
-    <file name="u17057-4.png" crc="3799610094" ref="ti53"/>
+    <file name="u17057-4.png" crc="530822900" ref="ti53"/>
     <file name="u17074-4.png" crc="4014084034" ref="ti53"/>
     <file name="u17056-4.png" crc="24649027" ref="ti53"/>
     <file name="u17073_states.png" crc="295586249" ref="ti53"/>
@@ -1388,6 +1388,16 @@
     <file name="u17061_states-r.png" crc="483412125" ref="ti53"/>
     <file name="u17062-4.png" crc="4043376437" ref="ti53"/>
     <file name="u17070-8.png" crc="97688743" ref="ti53"/>
+    <file name="u17083_states.png" crc="4274626167" ref="happy-lands-verify-p"/>
+    <file name="u17083_states-r.png" crc="4274626167" ref="happy-lands-verify-p"/>
+    <file name="u17080_states.png" crc="398091714" ref="happy-lands-verify-p"/>
+    <file name="u17080_states-r.png" crc="398091714" ref="happy-lands-verify-p"/>
+    <file name="blk-bf21-360x320-c100075-a.jpg" crc="463629338" seo="true" ref="bc54">
+      <caption webpage="bc54" alt=""/>
+    </file>
+    <file name="644-1x.jpg" crc="490601794" seo="true" ref="ti53">
+      <caption webpage="ti53" alt=""/>
+    </file>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
@@ -1395,7 +1405,7 @@
     <file name="vph1.css" crc="3871507639" ref="vph1"/>
     <file name="usc.css" crc="4130019171" ref="usc"/>
     <file name="verify1.css" crc="164928635" ref="verify1"/>
-    <file name="happy-lands-verify-p.css" crc="314625020" ref="happy-lands-verify-p"/>
+    <file name="happy-lands-verify-p.css" crc="4071347900" ref="happy-lands-verify-p"/>
     <file name="rog2.css" crc="147579869" ref="rog2"/>
     <file name="verify2.css" crc="4177077986" ref="verify2"/>
     <file name="tro3.css" crc="367972248" ref="tro3"/>
@@ -1486,7 +1496,7 @@
     <file name="verify46.css" crc="271036220" ref="verify46"/>
     <file name="verify45.css" crc="11389048" ref="verify45"/>
     <file name="sx46.css" crc="355879790" ref="sx46"/>
-    <file name="9742.css" crc="4281223266" ref="9742"/>
+    <file name="9742.css" crc="3915989752" ref="9742"/>
     <file name="verify47.css" crc="274590478" ref="verify47"/>
     <file name="si47.css" crc="3837064275" ref="si47"/>
     <file name="nf48.css" crc="3789492588" ref="nf48"/>
@@ -1498,9 +1508,9 @@
     <file name="verify51.css" crc="68332085" ref="verify51"/>
     <file name="verify54.css" crc="4142578080" ref="verify54"/>
     <file name="verify53.css" crc="3837676173" ref="verify53"/>
-    <file name="bc54.css" crc="135449603" ref="bc54"/>
+    <file name="bc54.css" crc="309267476" ref="bc54"/>
     <file name="sm52.css" crc="18597785" ref="sm52"/>
-    <file name="ti53.css" crc="4062855546" ref="ti53"/>
+    <file name="ti53.css" crc="3875794476" ref="ti53"/>
     <file name="verify52.css" crc="4132673962" ref="verify52"/>
     <file name="cl51.css" crc="479264108" ref="cl51"/>
   </folder>
@@ -1516,7 +1526,7 @@
   <file name="usc.html" crc="102499071" seo="true" mt="1656495664805" redirect="true"/>
   <file name="vph1.html" crc="251166669" seo="true" mt="1656495664805" redirect="true"/>
   <file name="verify1.html" crc="72673290" seo="true" mt="1656495664805" redirect="true"/>
-  <file name="happy-lands-verify-p.html" crc="4005987076" seo="true" mt="1657589026254" redirect="true"/>
+  <file name="happy-lands-verify-p.html" crc="4061883256" seo="true" mt="1657724927341" redirect="true"/>
   <file name="verify2.html" crc="231524958" seo="true" mt="1656495664805" redirect="true"/>
   <file name="rog2.html" crc="4130480070" seo="true" mt="1656495664805" redirect="true"/>
   <file name="tro3.html" crc="4278534419" seo="true" mt="1656495664805" redirect="true"/>
@@ -1610,7 +1620,7 @@
   <file name="si47.html" crc="4085604581" seo="true" mt="1657425672596" redirect="true"/>
   <file name="verify47.html" crc="59567877" seo="true" mt="1657422768313" redirect="true"/>
   <file name="verify48.html" crc="4173941612" seo="true" mt="1657422776064" redirect="true"/>
-  <file name="9742.html" crc="4169444596" seo="true" mt="1657719550907" redirect="true"/>
+  <file name="9742.html" crc="4249804917" seo="true" mt="1657725263327" redirect="true"/>
   <file name="nf48.html" crc="4177946425" seo="true" mt="1657422690721" redirect="true"/>
   <file name="verify49.html" crc="4113371932" seo="true" mt="1657509984427" redirect="true"/>
   <file name="verify50.html" crc="4226867612" seo="true" mt="1657509992891" redirect="true"/>
@@ -1620,8 +1630,8 @@
   <file name="verify52.html" crc="3881934184" seo="true" mt="1657584356491" redirect="true"/>
   <file name="sm52.html" crc="3921919384" seo="true" mt="1657589827119" redirect="true"/>
   <file name="cl51.html" crc="3960112182" seo="true" mt="1657590067403" redirect="true"/>
-  <file name="bc54.html" crc="3781991138" seo="true" mt="1657723975882" redirect="true"/>
-  <file name="verify53.html" crc="495607550" seo="true" mt="1657723984302" redirect="true"/>
-  <file name="verify54.html" crc="263508050" seo="true" mt="1657723980343" redirect="true"/>
-  <file name="ti53.html" crc="514534770" seo="true" mt="1657723970187" redirect="true"/>
+  <file name="bc54.html" crc="381127793" seo="true" mt="1657725050782" redirect="true"/>
+  <file name="verify53.html" crc="103797826" seo="true" mt="1657725294063" redirect="true"/>
+  <file name="verify54.html" crc="4155603702" seo="true" mt="1657725284738" redirect="true"/>
+  <file name="ti53.html" crc="3865087613" seo="true" mt="1657725206712" redirect="true"/>
 </manifest>
