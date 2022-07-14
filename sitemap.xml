@@ -728,7 +728,7 @@
   </url>
   <url>
     <loc>http://happylands.github.io/9742.html</loc>
-    <lastmod>2022-07-13</lastmod>
+    <lastmod>2022-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -833,5 +833,11 @@
     <image:image>
       <image:loc>http://happylands.github.io/images/644-1x.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://happylands.github.io/7984.html</loc>
+    <lastmod>2022-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
