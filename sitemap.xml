@@ -834,10 +834,4 @@
       <image:loc>http://happylands.github.io/images/644-1x.jpg</image:loc>
     </image:image>
   </url>
-  <url>
-    <loc>http://happylands.github.io/4772.html</loc>
-    <lastmod>2022-07-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
 </urlset>
