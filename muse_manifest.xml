@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="happylands.github.io" resolutions="1x" timestamp="1657877770110">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="happylands.github.io" resolutions="1x" timestamp="1657878464118">
   <folder name="images">
     <file name="u94-6.png" crc="278998505" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:vph1:verify1:happy-lands-verify-p:verify2:rog2:tro3:verify3:verify4:oc4:wt5:verify5:verify6:lm6:verify7:co7:verify8:wo8:verify9:verify10:9dr:am10:verify11:11b:verify12:ro12:verify13:verify14:do13:14mf:re16:verify15:verify16:ar15:verify17:cl17:verify18:br18:verify19:19ba:verify20:3s20:verify21:21hk:verify22:ne22:al23:verify23:verify24:sl24:st25:verify25:verify26:th26:verify27:ls27:verify28:al28:bo30:verify29:ff29:verify30:mg31:verify31:verify32:32sp:zo33:verify33:verify34:cu34:ty35:verify36:verify35:se36:wo37:verify38:verify37:po38:verify39:verify40:st40:rs39:ri41:verify42:verify41:bd42:ma43:verify43:verify44:so44:bu45:verify45:verify46:sx46:si47:verify47:verify48:9742:nf48:verify49:verify50:ma49:yo50:verify51:verify52:sm52:cl51:bc54:verify53:verify54:ti53"/>
@@ -319,21 +319,21 @@
     <file name="ftlffsbwqaazqf3.jpg" crc="86354181" seo="true" ref="ro12:9742">
       <caption webpage="574538" alt=""/>
       <caption webpage="9742" alt=""/>
-      <caption webpage="copyp副本副本副本" alt=""/>
-      <caption webpage="ti53" alt=""/>
-      <caption webpage="sl24副本-2副本副本副本副本-2副本副本" alt=""/>
-      <caption webpage="574538副本副本副本" alt=""/>
-      <caption webpage="sl24副本-2副本副本副本副本-2" alt=""/>
-      <caption webpage="sl24副本-2副本副本" alt=""/>
       <caption webpage="bc54" alt=""/>
-      <caption webpage="sl24副本-2副本副本副本" alt=""/>
-      <caption webpage="sl24副本-2" alt=""/>
-      <caption webpage="574538副本副本" alt=""/>
-      <caption webpage="574538副本" alt=""/>
-      <caption webpage="9742副本" alt=""/>
-      <caption webpage="ro12副本" alt=""/>
-      <caption webpage="ro12" alt=""/>
+      <caption webpage="copyp副本副本副本" alt=""/>
+      <caption webpage="sl24副本-2副本副本副本副本-2副本副本" alt=""/>
       <caption webpage="574538副本副本副本副本" alt=""/>
+      <caption webpage="sl24副本-2副本副本副本" alt=""/>
+      <caption webpage="574538副本副本" alt=""/>
+      <caption webpage="sl24副本-2" alt=""/>
+      <caption webpage="sl24副本-2副本副本" alt=""/>
+      <caption webpage="574538副本副本副本" alt=""/>
+      <caption webpage="574538副本" alt=""/>
+      <caption webpage="sl24副本-2副本副本副本副本-2" alt=""/>
+      <caption webpage="ti53" alt=""/>
+      <caption webpage="9742副本" alt=""/>
+      <caption webpage="ro12" alt=""/>
+      <caption webpage="ro12副本" alt=""/>
     </file>
     <file name="u8011-4.png" crc="24649027" ref="ro12"/>
     <file name="u8010_states.png" crc="295586249" ref="ro12"/>
@@ -1402,6 +1402,8 @@
     <file name="u17837-a.png" crc="480145902" ref="9742"/>
     <file name="u17749-4.png" crc="3767473343" ref="9742"/>
     <file name="u17740-4.png" crc="346846802" ref="9742"/>
+    <file name="u17942.png" crc="376123950" ref="9742"/>
+    <file name="u17942-r.png" crc="258333367" ref="9742"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
@@ -1500,7 +1502,7 @@
     <file name="verify46.css" crc="271036220" ref="verify46"/>
     <file name="verify45.css" crc="11389048" ref="verify45"/>
     <file name="sx46.css" crc="355879790" ref="sx46"/>
-    <file name="9742.css" crc="4030776155" ref="9742"/>
+    <file name="9742.css" crc="4011993349" ref="9742"/>
     <file name="verify47.css" crc="274590478" ref="verify47"/>
     <file name="si47.css" crc="3837064275" ref="si47"/>
     <file name="nf48.css" crc="3789492588" ref="nf48"/>
@@ -1628,7 +1630,7 @@
   <file name="si47.html" crc="4085604581" seo="true" mt="1657425672596" redirect="true"/>
   <file name="verify47.html" crc="59567877" seo="true" mt="1657422768313" redirect="true"/>
   <file name="verify48.html" crc="4173941612" seo="true" mt="1657422776064" redirect="true"/>
-  <file name="9742.html" crc="4247774709" seo="true" mt="1657877751744" redirect="true"/>
+  <file name="9742.html" crc="303769276" seo="true" mt="1657878403197" redirect="true"/>
   <file name="nf48.html" crc="4177946425" seo="true" mt="1657422690721" redirect="true"/>
   <file name="verify49.html" crc="4113371932" seo="true" mt="1657509984427" redirect="true"/>
   <file name="verify50.html" crc="4226867612" seo="true" mt="1657509992891" redirect="true"/>
