@@ -805,12 +805,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://happylands.github.io/eng.html</loc>
-    <lastmod>2022-08-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://happylands.github.io/verify-f-en.html</loc>
     <lastmod>2022-07-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -824,7 +818,7 @@
   </url>
   <url>
     <loc>http://happylands.github.io/happy-lands-verify-p-en.html</loc>
-    <lastmod>2022-07-31</lastmod>
+    <lastmod>2022-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
