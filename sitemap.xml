@@ -830,7 +830,7 @@
   </url>
   <url>
     <loc>http://happylands.github.io/welcome-to-happy-lands-b-en.html</loc>
-    <lastmod>2022-07-29</lastmod>
+    <lastmod>2022-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -974,6 +974,12 @@
   </url>
   <url>
     <loc>http://happylands.github.io/g-member-en.html</loc>
+    <lastmod>2022-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://happylands.github.io/b-member-en-c.html</loc>
     <lastmod>2022-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
